@@ -1,0 +1,9 @@
+# Power BI temp files
+*.pbix.lock
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDS_mapping not needed for running the project (reference only)
+IDS_mapping.csv
